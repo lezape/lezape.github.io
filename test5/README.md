@@ -1,1 +1,1 @@
-# lezape.github.io.index.html
+# lezape.github.io/index.html
